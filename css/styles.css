@@ -91,6 +91,11 @@
   }
 }
 
+header{
+  font-style: italic;
+  color: #fff;
+}
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
